@@ -2,41 +2,47 @@
 layout: cv
 title: Lucas Soto
 ---
-# Lucas S. 
+# Lucas S.Soto 
 
 
 <div id="webaddress">
 <a href="luksoto92@gmail.com">luksoto92@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
+| <a href="https://www.linkedin.com/in/lucas-samuel-soto/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
+`Expected April 2023`
+### Bachelors of Science in Economics
+__Brigham Young University - Idaho__,Rexburg, ID
 
-`2025-2027`
+- Minor: Data Science
+- Relevant Courses: Data Wrangling and Visualization, Intermediate Statistics, Intermediate Microeconomics,
+Intermediate Macroeconomics
+- Certificate in Spreadsheet Modeling Online Curse by Harvard Business Publishing
+- Certificate in Bloomberg Market Concepts
+
+`2017-2019`
+### Associate in Busines Managament
 __LDS Business College__, Salt Lake City, UT
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
+- Academic scholarship with 3.75 GPA
 
 
-## Related Experience
 
-### Internships
+## Work Experience
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`August 2018 - April 2020`
+__Wells Fargo__, Teller, Utah
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Recognized by avoiding frauds for $5000 by Maintained strict financial controls and keeping funds secure and transferring funds accurately
+- Facilitated customers and consult with on services require, ensuring service quality is as high as possible
+- Kept all procedures involving financial and customer information to avoid possible data breaches and misuse
+- Exceeded monthly and quarterly goals by 15% by being detail-oriented, and self-driven in all professional
+interactions
 
 ### Data Science Lead
 
