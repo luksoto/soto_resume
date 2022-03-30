@@ -2,7 +2,7 @@
 layout: cv
 title: Lucas Soto
 ---
-# Lucas S. Soto
+# Lucas S. 
 
 
 <div id="webaddress">
