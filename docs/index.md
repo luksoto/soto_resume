@@ -53,7 +53,7 @@ __Metro PCS__, Store Manager
 
 
 
-## Service and Work History
+## Service and Volunteer History
 `September 2021 - December 2021 `
 
 __Brigham Young university Idaho__,Spanish Tutor
