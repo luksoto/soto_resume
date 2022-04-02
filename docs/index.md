@@ -9,7 +9,7 @@ title: Lucas Soto
 <a href="luksoto92@gmail.com">luksoto92@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/in/lucas-samuel-soto/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://github.com/luksoto">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
