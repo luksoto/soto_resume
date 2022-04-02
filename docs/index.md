@@ -64,12 +64,14 @@ __Brigham Young university Idaho__,Spanish Tutor
 - Performed weekly reports about students' progress
 
 `September 2017 - December 2017`
+
 __LDS College__, Project Manager
 
 - Directed and supervised a team of 10 students to create a fundraiser event for college generating more than
 $2000 in donations to Scholarships
 
 `December 2011 - December 2013`
+
 __The Church of Jesus Christ of Latter-day Saints Santa Maria, Brazil__
 Full-time Volunteer Representative 
 
